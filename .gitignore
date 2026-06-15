@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.dll
+telemetry*.csv
+.vscode/
+*.mp4
