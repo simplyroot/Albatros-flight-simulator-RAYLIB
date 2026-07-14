@@ -13,3 +13,4 @@ const float CL0 = 0.30f;        // α=0 lift katsayısı
 const float CL_ALPHA = 5.0f;        //lift curve slope
 const float CD0 = 0.030f;        //parazit drag
 const float K_INDUCED = 0.050f;         //induced drag faktörü
+const float PIXELS_PER_METER = 3.0f;
